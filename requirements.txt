@@ -51,6 +51,8 @@ regex==2026.7.10
 requests==2.34.2
 rich==15.0.0
 rpds-py==2026.6.3
+scikit-learn==1.9.0
+scipy==1.18.0
 setuptools==83.0.0
 six==1.17.0
 smmap==5.0.3
@@ -59,6 +61,7 @@ streamlit==1.59.2
 tenacity==9.1.4
 tensorflow==2.21.0
 termcolor==3.3.0
+threadpoolctl==3.6.0
 toml==0.10.2
 tqdm==4.68.4
 typing_extensions==4.16.0
